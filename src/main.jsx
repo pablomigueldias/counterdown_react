@@ -5,7 +5,7 @@ import App from "./App.jsx";
 
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 
-import Home from "./routes/home.jsx";
+import Home from "./routes/homeT.jsx";
 import Countdown from "./routes/Countdown.jsx";
 
 import { CountdownProvider } from "./context/CounterdownContext.jsx";
