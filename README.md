@@ -1,6 +1,6 @@
 # ⏳ CounterDown React
 
-**CounterDown React** é um contador regressivo simples e funcional desenvolvido com React, ideal para marcar eventos importantes!
+**CounterDown React** é um contador regressivo simples e funcional desenvolvido com React.
 
 ## ⚙️ Funcionalidades
 
