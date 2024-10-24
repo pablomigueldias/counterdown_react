@@ -1,8 +1,30 @@
-# React + Vite
+# ⏳ CounterDown React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**CounterDown React** é um contador regressivo simples e funcional desenvolvido com React, ideal para marcar eventos importantes!
 
-Currently, two official plugins are available:
+## ⚙️ Funcionalidades
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⏲ **Contagem regressiva em tempo real**
+- 📆 Exibe dias, horas, minutos e segundos restantes até o evento
+- 💻 **Atualização automática** conforme o tempo passa
+
+## 🚧 Melhorias Futuras
+
+- 📱 **Responsividade**: Suporte para dispositivos móveis
+- 🎨 Personalização do contador
+- 🔔 Alerta ao término da contagem
+
+## 🚀 Demonstração
+
+[👉 **Clique aqui** para acessar o projeto](https://counterdown-react.vercel.app/)
+
+## 🛠 Tecnologias Utilizadas
+
+- **React** ⚛️
+- **Vercel** ⚡
+
+## 📝 Como Usar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/counterdown-react.git
