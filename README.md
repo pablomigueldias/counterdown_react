@@ -15,4 +15,4 @@ Uma aplicação de contagem regressiva precisa, desenvolvida em React, que reali
 - **Vercel:** Hosting e automação de deploy.
 
 ---
-🔗 **Veja o tempo passar:** [Acesse o CounterDown no Vercel](https://countdown-react-pablo.vercel.app/)
+🔗 **Veja o tempo passar:** [Acesse o CounterDown no Vercel](https://counterdown-react.vercel.app/)
